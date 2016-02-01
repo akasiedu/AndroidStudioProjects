@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">List Fragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="heroes">
+        <item>Iron Man</item>
+        <item>Thor</item>
+        <item>Hulk</item>
+        <item>Captain America</item>
+    </string-array>
+
+    <string name="title_activity_another">MainActivity</string>
+</resources>

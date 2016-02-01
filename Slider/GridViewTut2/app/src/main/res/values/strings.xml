@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GridViewTut</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="signs">
+        <item>Bicycle crossing</item>
+        <item>Chevron Symbol</item>
+        <item>Crossing sign</item>
+        <item>Deer crossing</item>
+        <item>Emergency sign</item>
+        <item>Left curve ahead</item>
+        <item>No Crossing</item>
+        <item>No left turn</item>
+        <item>No parking here</item>
+        <item>No right turn</item>
+        <item>No truck here</item>
+    </string-array>
+    <string name="title_activity_my_dialog">MyDialog</string>
+</resources>

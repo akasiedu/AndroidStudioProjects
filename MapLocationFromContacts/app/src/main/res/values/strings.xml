@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapLocationFromContacts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_address_string">"Find Address"</string>
+</resources>

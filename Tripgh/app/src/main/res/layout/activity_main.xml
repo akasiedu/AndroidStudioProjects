@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/niceplace" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="70dp"
+            android:textSize="30dp"
+            android:textColor="#454545"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+
+            android:text="TripGH" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="70dp"
+            android:textSize="10dp"
+            android:textColor="#454545"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="-60dp"
+            android:text="@string/aboutTripGh" />
+        <Button
+            android:id="@+id/tourNow"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:text="Tour Now"
+
+            android:layout_marginTop="-60dp"
+            android:layout_weight="0.5"
+            />
+    </LinearLayout>
+    <!--<android.support.v7.widget.RecyclerView
+        android:id="@+id/my_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:scrollbars="vertical" />-->
+
+</LinearLayout>

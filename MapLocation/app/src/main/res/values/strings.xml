@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapLocation</string>
+
+    <string name="show_map_string">Show Map</string>
+    <string name="location_string">Enter Location</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Frag New</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="chapters">
+        <item>SCARCITY</item>
+        <item>DEBUNKING THE VULNERABILITY MYTHS</item>
+        <item>UNDERSTANDING AN COMBATING SHAME</item>
+        <item>THE VULNERABILITY ARMORY</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>After	doing this work for	the	past twelve	years and watching scarcity	ride roughshod over	our	families, organizations, and communities, I’d say the one thing	we have	in	common	is	that	we’re	sick of	feeling	afraid.	We	want	to	dare	greatly.	We’re	tired	of	the	national	conversation	centering	on	“What	should	we	fear?”	and	“Who	should	we	blame?”	We	all	want	to	be	brave.</item>
+        <item>Yes,	we	are	totally	exposed	when	we	are	vulnerable.	Yes,	we	are	in	the	torture	chamber	that	we	call	uncertainty. And, yes, we’re taking	a	huge	emotional	risk	when	we	allow	ourselves	to	be
+                vulnerable.	But	there’s	no	equation	where	taking	risks,	braving	uncertainty,	and	opening	ourselves	up	to	emotional	exposure	equals	weakness.</item>
+        <item>Shame	derives	its	power	from	being	unspeakable.	That’s	why	it	loves	perfectionists—it’s	so	easy	to	keep	us	quiet.	If	we	cultivate	enough	awareness	about	shame	to	name	it	and	speak	to	it,	we’ve
+                basically	cut	it	off	at	the	knees.	Shame	hates	having	words	wrapped	around	it.	If	we	speak	shame,	it	begins	to	wither.	Just	the	way	exposure	to	light	was	deadly	for	the	gremlins,	language	and	story
+                bring	light	to	shame	and	destroy	it.</item>
+        <item>As	children	we	found	ways	to	protect	ourselves	from	vulnerability,	from	being	hurt,	diminished,	and	disappointed.	We	put	on	armor;	we	used	our	thoughts,	emotions,	and	behaviors	as	weapons;
+                and	we	learned	how	to	make	ourselves	scarce,	even	to	disappear.	Now	as	adults	we	realize	that	to	live	with	courage,	purpose,	and	connection—to	be	the	person	whom	we	long	to	be—we	must
+                again	be	vulnerable.	We	must	take	off	the	armor,	put	down	the	weapons,	show	up,	and	let	ourselves	be	seen.</item>
+    </string-array>
+
+
+
+</resources>

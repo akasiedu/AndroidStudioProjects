@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Know</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="menus_array">
+        <!--<item>Home</item>-->
+        <item>Notification</item>
+        <item>History</item>
+        <item>Contact Us</item>
+        <item>About Us</item>
+        <item>Rate Us</item>
+
+    </string-array>
+    <string name="logout">LogOut</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

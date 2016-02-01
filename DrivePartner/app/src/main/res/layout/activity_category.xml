@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CategoryActivity"
+    android:background="#eef2e1"
+    android:weightSum="1">
+
+
+    <include android:id="@+id/app_bar"
+        layout="@layout/app_bar"/>
+
+    <!--<TextView-->
+        <!--android:id="@+id/textView3"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginTop="16dp"-->
+        <!--android:layout_marginBottom="64dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:textSize="25dp"-->
+        <!--android:textStyle="bold"-->
+        <!--android:text="Be A Better Driver" />-->
+
+    <GridView
+        android:id="@+id/gridView3"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="128dp"
+        android:layout_height="387dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/app_bar"
+        android:numColumns="2"
+        android:horizontalSpacing="7sp"
+        android:verticalSpacing="5sp"
+        android:layout_weight="0.11">
+
+    </GridView>
+
+
+</LinearLayout>

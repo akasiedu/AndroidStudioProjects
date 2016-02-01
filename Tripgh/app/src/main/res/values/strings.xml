@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tripgh</string>
+    <string name="list_view">List of Places</string>
+    <string name="home_list">Historical Places</string>
+    <string name="explore_gh">Know your country\'s History</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutTripGh">TripGh is an online application that displays historic places in Ghana to world,
+        allows anyone to leave a review of the place based on their experience,
+        provides historical content for those who would like to read and know more about the
+    Ghanaian history</string>
+</resources>

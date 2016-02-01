@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Drive Safely</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="tabs">
+        <item>Tab 1</item>
+        <item>Tab 2</item>
+        <item>Tab 3</item>
+    </string-array>
+
+    <string-array name="signs">
+        <item>Bicycle crossing</item>
+        <item>Chevron Symbol</item>
+        <item>Crossing sign</item>
+        <item>Deer crossing</item>
+        <item>Emergency sign</item>
+        <item>Left curve ahead</item>
+        <item>No Crossing</item>
+        <item>No left turn</item>
+        <item>No parking here</item>
+        <item>No right turn</item>
+        <item>No truck here</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>This is meme description 1</item>
+        <item>This is meme decription 2</item>
+        <item>This is meme decription 3</item>
+        <item>This is meme decription 4</item>
+        <item>This is meme decription 5</item>
+        <item>This is meme decription 6</item>
+        <item>This is meme decription 7</item>
+        <item>This is meme decription 8</item>
+        <item>This is meme decription 9</item>
+        <item>This is meme decription 10</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

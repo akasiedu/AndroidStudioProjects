@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">POP</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="register_page">Register Page</string>
+    <string name="first_name">First Name</string>
+    <string name="back_to_login">Back To Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="about_me">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et sit velit, in accusamus rerum vel dolorum temporibus quia, cum, magni facere mollitia eveniet facilis? Aperiam ipsam voluptatem numquam voluptates? Tempore.</string>
+</resources>
